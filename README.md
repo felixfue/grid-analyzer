@@ -4,7 +4,7 @@ A simple implemented dashboard, that visualizes the bottlenecks in the US power 
 
 
 Check out the dashboard on Streamlit-Community-Cloud:
-*Link to Live-app on streamlit Community Cloud*
+[grid-analyzer](https://grid-analyzer.streamlit.app)
 
 ## git-clone
 
